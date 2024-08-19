@@ -1,19 +1,15 @@
-[submodule "dependencies/submodules/UESDK"]
+[submodule "UESDK"]
   path = dependencies/submodules/UESDK
-  url = https://github.com/Aeyth8/UESDK
-  branch = master
+  url = git://github.com/Aeyth8/UESDK.git
 
-[submodule "dependencies/submodules/glm"]
+[submodule "glm"]
   path = dependencies/submodules/glm
-  url = https://github.com/g-truc/glm
-  branch = master
+  url = git://github.com/g-truc/glm.git
 
-[submodule "dependencies/submodules/imgui"]
+[submodule "imgui"]
   path = dependencies/submodules/imgui
-  url = https://github.com/ocornut/imgui
-  branch = master
+  url = git://github.com/ocornut/imgui.git
 
-[submodule "dependencies/submodules/spdlog"]
+[submodule "spdlog"]
   path = dependencies/submodules/spdlog
-  url = https://github.com/gabime/spdlog
-  branch = master
+  url = git://github.com/gabime/spdlog.git
