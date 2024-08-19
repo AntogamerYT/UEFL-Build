@@ -10,3 +10,6 @@
 [submodule "dependencies/submodules/UESDK"]
 	path = dependencies/submodules/UESDK
 	url = git@github.com:praydog/UESDK.git
+[submodule "dependencies/submodules/dependencies/submodules/UESDK"]
+	path = dependencies/submodules/dependencies/submodules/UESDK
+	url = https://github.com/Aeyth8/UESDK.git
