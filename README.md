@@ -9,9 +9,11 @@ Unreal Engine Function Loader
 ## Why Does This Exist?
 
 Because the prick who originally made this program couldn't just add it as a feature (A SUPER SIMPLE BOOLEAN SWITCH), and instead said to use UE4SS. 
-*THANKS ALOT BUTTERCUP* **IT DOESN'T WORK IN MY SITUATION**
 
-So UEFL is just a modified version of UEVR without needing a STUPID HMD to use the UObjectBaseHook.
+***THANKS ALOT BUTTERCUP IT DOESN'T WORK IN MY SITUATION***
+
+So **UEFL** is just a modified version of **UEVR** without needing a STUPID HMD to use the UObjectBaseHook.
+
 (I'm completely scrapping all VR aspects, but I'm a newborn programmer so I will for a fact miss some stuff)
 
 ## Getting Started
@@ -26,5 +28,5 @@ Before launching, ensure you have installed .NET 6.0. It should tell you where t
 
 ## In-Game Menu
 
-Press the **Insert** key / **0** on your numpad **OR** **L3+R3** on an XInput based controller to access the in-game menu, which already opens by default at startup.
+Press **Insert** / **0** on your numpad ***OR*** **L3+R3** on an XInput based controller to access the in-game menu, which already opens by default at startup.
 
