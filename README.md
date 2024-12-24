@@ -30,3 +30,4 @@ Before launching, ensure you have installed .NET 6.0. It should tell you where t
 
 Press **Insert** / **0** on your numpad ***OR*** **L3+R3** on an XInput based controller to access the in-game menu, which already opens by default at startup.
 
+.
